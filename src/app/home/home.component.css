@@ -48,13 +48,13 @@
 }
 
 
-.img1[_ngcontent-c0] {
+.img1{
     max-width: 27%;
     width: 383px;
     margin-top: -35px;
     margin-left: 134px;
 }
-.img2[_ngcontent-c0] {
+.img2{
  
     
     max-width: 24%;
@@ -108,13 +108,13 @@ h1.head{
     color: cornflowerblue;
 
 }
-.img3[_ngcontent-c0] {
+.img3 {
     max-width: 27%;
     width: 383px;
     margin-top: -9px;
     margin-left: 134px;
 }
-.img4[_ngcontent-c0] {
+.img4 {
  
     max-width: 56%;
     width: 350px;
@@ -122,7 +122,7 @@ h1.head{
     margin-left: 299px;
     margin-right: -101px;
 }
-.img5[_ngcontent-c0] {
+.img5 {
     max-width: 38%;
     width: 383px;
     margin-top: 43px;
@@ -134,14 +134,14 @@ h1.head{
     margin-top: 83px;
 }
 
-.img8[_ngcontent-c0] {
+.img8 {
     max-width: 19%;
     width: 302px;
     margin-top: -195px;
     margin-left: 785px;
     margin-right: -117px;
 }
-.img9[_ngcontent-c0] {
+.img9{
     max-width: 19%;
     width: 383px;
     margin-top: -304px;
@@ -335,8 +335,16 @@ i {
  .img10{
     vertical-align: middle;
     width: 69%;
-    margin-top: -71px;
+    margin-top: 13px;
+    margin-left: 197px;
+    margin-bottom: -55px;
  }
+ .p5 {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 23px;
+    color: #7e8b9b;
+}
  
  
  
